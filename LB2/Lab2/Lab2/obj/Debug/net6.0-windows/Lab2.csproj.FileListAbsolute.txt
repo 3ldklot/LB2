@@ -1,0 +1,40 @@
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.exe
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.deps.json
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.runtimeconfig.json
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.dll
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form2.resources
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.GenerateResource.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfoInputs.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfo.cs
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.CoreCompileInputs.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.dll
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\refint\Lab2.dll
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.pdb
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.genruntimeconfig.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\ref\Lab2.dll
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form3.resources
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form4.resources
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Properties.Resources.resources
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form2.resources
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form3.resources
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form4.resources
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Properties.Resources.resources
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.GenerateResource.cache
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfoInputs.cache
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfo.cs
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.CoreCompileInputs.cache
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.dll
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\refint\Lab2.dll
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.pdb
+C:\Учебные дела\IB\LB2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.exe
+C:\Учебные дела\IB\LB2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.deps.json
+C:\Учебные дела\IB\LB2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.runtimeconfig.json
+C:\Учебные дела\IB\LB2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.dll
+C:\Учебные дела\IB\LB2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.genruntimeconfig.cache
+C:\Учебные дела\IB\LB2\Lab2\Lab2\obj\Debug\net6.0-windows\ref\Lab2.dll
